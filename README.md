@@ -40,7 +40,8 @@
 https://docs.google.com/spreadsheets/d/1vVk3UfnTtCIodg9oR6onyLdVYVqmt9Pm1ob62379ldA/edit?usp=sharing
 ## Задание 2.Создайте 10 сцен на Unity с изменяющимся уровнем сложности.
 ### 
-Прикладываю проект, он находится в этом репозитории.
+Проект на диске, вот ссылка:
+https://drive.google.com/drive/folders/1vupyaqJMpWGn48j7d-oUicgg8nJn_NzQ?usp=sharing
 ## Задание 3.Решение в 80+ баллов должно заполнять google-таблицу данными из Python. В Python данные также должны быть визуализированы.
 ###
 Отстутствует.
